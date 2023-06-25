@@ -1,1 +1,3 @@
-the git command line used
+git pull origin master
+vi up_to_date
+git push origin master
